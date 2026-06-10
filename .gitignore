@@ -1,0 +1,14 @@
+# Raw dataset is large (features.csv 2.2 GB, actions.csv 282 MB) and exceeds
+# GitHub's 100 MB per-file limit. It lives on Kaggle — download it locally.
+# See 04_Dataset/README.md for instructions.
+04_Dataset/*
+!04_Dataset/README.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS / editor cruft
+Thumbs.db
+.DS_Store

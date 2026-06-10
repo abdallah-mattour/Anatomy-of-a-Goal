@@ -12,3 +12,8 @@ __pycache__/
 # OS / editor cruft
 Thumbs.db
 .DS_Store
+.idea/
+.vscode/
+
+# Microsoft Office lock/temp files (e.g. ~$Report.docx)
+~$*
